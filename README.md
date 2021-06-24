@@ -4,9 +4,9 @@ using threading / requests module
 not for selling 
 
 
-- recommended 
-[+] requests 
-[+] python3.+ 
+- recommended |
+[1] requests 
+[2] python3.+ 
 
 
 
