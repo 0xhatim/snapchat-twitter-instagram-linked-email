@@ -4,4 +4,11 @@ using threading / requests module
 not for selling 
 
 
+- recommended 
+[+] requests 
+[+] python3.+ 
+
+
+
+
 ../ only for education puprose 
